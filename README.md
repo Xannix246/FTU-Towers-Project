@@ -22,5 +22,5 @@
 
 
 # FAQ
- * Where is BETON BRUTAL map folder?
+ * Where is BETON BRUTAL map folder?<br>
     `C:\Users\{user}\AppData\LocalLow\Jan Malitschek\BetonBrutal\CustomMaps`
