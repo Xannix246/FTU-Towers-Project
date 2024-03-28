@@ -5,7 +5,7 @@
 
 # Main information
  FTU Project - it is a BETON BRUTAL project, where anyone can use custom towers for create own maps.<br>
- Please read `Readme.md` files, because tower templates can include specific build notes.
+ Please read `Readme.md` files, because tower templates can include specific build notes (You can delete Image and Readme files in future).
  
 
 ## *Note*
