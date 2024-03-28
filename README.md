@@ -24,3 +24,13 @@
 # FAQ
  * Where is BETON BRUTAL map folder?<br>
     `C:\Users\{user}\AppData\LocalLow\Jan Malitschek\BetonBrutal\CustomMaps`
+
+
+
+# For creators
+ If you would like upload your custom tower to FTU Project, you need:
+   * Map with empty tower
+   * Readme file with specific build notes (if exist)
+   <br>
+   <br>
+ You can DM me in Discord (xannix_8248), write type of tower (Bath, Brutal, or Other), your nick in Steam, and send aforementioned files.
