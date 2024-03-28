@@ -33,4 +33,4 @@
    * Readme file with specific build notes (if exist)
    <br>
    <br>
- You can DM me in Discord (xannix_8248), write type of tower (Bath, Brutal, or Other), your nick in Steam, and send aforementioned files.
+ You can DM me in Discord (xannix_8248), just write type of tower (Bath, Brutal, or Other), your nick in Steam, and send aforementioned files.
